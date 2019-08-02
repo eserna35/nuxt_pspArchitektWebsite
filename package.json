@@ -1,0 +1,19 @@
+{
+  "name": "nuxt_psp-architekt",
+  "version": "1.0.0",
+  "description": "Webpage for PSP-Architekt Office",
+  "author": "Nazan Eser",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
